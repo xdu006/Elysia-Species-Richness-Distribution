@@ -1,7 +1,7 @@
 # _Elysia_ Species Richness Fails to Follow a Linear Trend as Distance from Equatorial Plane Increases
 ![image](https://github.com/user-attachments/assets/86fe8c9a-02ad-4b0b-a4bf-727ec50e25b7)
 
-[Source. © Patrick J. Krug]
+[Source. © Patrick J. Krug, Creative Commons CC BY-NC 3.0 license, via Wikimedia Commons]
 
 ## Intro 
 
