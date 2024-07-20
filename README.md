@@ -18,7 +18,6 @@ First, we analyzed the distribution of _Elysia_ records with increasing latitudi
 ![image](https://github.com/user-attachments/assets/2ea99703-bc85-4caf-ad1f-762355f4db9b)
 ![image](https://github.com/user-attachments/assets/630a5948-78c5-4aa1-bca6-7c77f9b3a04c)
 ![image](https://github.com/user-attachments/assets/be5ace4c-6850-4a66-9bda-d6922dc2e2a2)
-![image](https://github.com/user-attachments/assets/2a7394b9-5266-4789-958f-3de3370fe984)
 
 ## Citation
 Please cite this work if used.
