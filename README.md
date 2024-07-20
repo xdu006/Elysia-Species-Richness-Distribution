@@ -1,6 +1,8 @@
 # _Elysia_ Species Richness Fails to Follow a Linear Trend as Distance from Equatorial Plane Increases
 ![image](https://github.com/user-attachments/assets/86fe8c9a-02ad-4b0b-a4bf-727ec50e25b7)
 
+[Source. © Patrick J. Krug]
+
 ## Intro 
 
 The _Elysia_ genus comprises of more than 100 species of slugs with incredibly diverse morphological and physiological characteristics. For instance, some are able to survive months on just sunlight (_E. chlorotica, E. viridis, E. timida_) by rehoming plant chloroplasts into their stomach epithelial lining (Havurinne & Tyystjärvi, 2020). Other _Elysia_ species are able to regenerate their entire body post-decapitation, including a new beating heart, stomach, and other internal organs (_E. atroviridis, E. marginata_; Mitoh & Yusa, 2021). Curiously, the factors that drive such biodiversity in _Elysia_ have been poorly explored. In many species, it has been shown that species diversity gradients toward high diversity near the equatorial plane (Dowle et al., 2013). However, there have been studies that show a different distribution for marine animals, where diversity is highest at middling latitudes away from the equator (Boltovskoy & Correa, 2016).
