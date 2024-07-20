@@ -14,10 +14,11 @@ We find that, _Elysia_ species richness follows a non-linear trend as distance f
 
 First, we analyzed the distribution of _Elysia_ records with increasing latitudinal distance from the equatorial plane, and found that there was an abnormally large number of records in the 35-40° range (Fig. 4). Further investigation showed that nearly half of all records originated from Japan, representing 12 different species within that geographic location alone. Next, we examined for a linear correlation between species richness (number of unique BINS) and latitude, and we found that the relationship between the two variables was poorly correlated when fitted with both linear and polynomial (degree 3) models (Fig. 2). Most notably, there was a clear outlier in the overrepresented latitude discussed previously. Thus, taking into account the oversampling and representation from Japan, Japan was removed from the dataset as an outlier. The analysis was performed again. While a linear regression was poorly fitted (R2=0.45), a polynomial trend (degree 3) was well fitted to the data (R2=0.7). Thus, we conclude that _Elysia_ species richness likely follows the marine distribution as predicted.
 
+## Citation
+Please cite this work if used.
+
 ## Figures
 ![image](https://github.com/user-attachments/assets/2ea99703-bc85-4caf-ad1f-762355f4db9b)
 ![image](https://github.com/user-attachments/assets/630a5948-78c5-4aa1-bca6-7c77f9b3a04c)
 ![image](https://github.com/user-attachments/assets/be5ace4c-6850-4a66-9bda-d6922dc2e2a2)
 
-## Citation
-Please cite this work if used.
